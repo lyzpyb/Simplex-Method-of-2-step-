@@ -1,1 +1,7 @@
-# Simplex-Method-of-2-step-
+# Simplex-Method-of-2-step
+
+# 二阶段单纯性法解决线性规划问题
+
+## 函数说明
+
+分别为主函数、单纯性法函数和二阶段法函数
